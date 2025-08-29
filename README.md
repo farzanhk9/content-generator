@@ -19,7 +19,7 @@ styles = [
 ]
 
 templates = [
-    "✨ {topic.capitalize()} ✨\nStay tuned! #beauty #lifestyle",
+    "✨✨ {topic.capitalize()} ✨\nStay tuned! #beauty #lifestyle",
     "💡 Did you know? {topic.capitalize()} can change your day! 🚀",
     "📣 Attention! Today we talk about {topic} — don't miss it!",
     "🌸 Simple trick for {topic}: always stay consistent 💖",
